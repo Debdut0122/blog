@@ -11,7 +11,7 @@ const Home = () => {
       {/* {blogs && <BlogList blogs={blogs} />} */}
       {blogs && (
         <BlogList
-          blogs={blogs.filter((blog) => blog.author === "Joey")}
+          blogs={blogs}//.filter((blog) => blog.author === "Joey")}
         />
       )}
     </div>

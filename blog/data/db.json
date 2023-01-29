@@ -1,18 +1,10 @@
 {
-"blogs":[
-    {
-      "title": "My new Blog!!",
-  
-  "body": "Lorem ipsum dolor..Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam assumenda dolorem, est debitis odit officiis dolor id esse fugit, perferendis obcaecati culpa ad aliquam veniam qui adipisci cumque iure commodi?",
-      
-      "author": "Joey",
-      "id": 1
-    },
+  "blogs": [
     {
       "title": "Monica Blog :)",
       "body": "Monika ipsum ..Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam assumenda dolorem, est debitis odit officiis dolor id esse fugit, perferendis obcaecati culpa ad aliquam veniam qui adipisci cumque iure commodi?",
       "author": "Monika",
       "id": 2
     }
-]
+  ]
 }

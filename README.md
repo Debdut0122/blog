@@ -1,8 +1,8 @@
 # Blog Website Using React.js
 This is a blog website made to learn and practice React.js. This use json server to store and fetch the data.
 ## Steps to run the code
-`git clone https://github.com/Debdut0122/blog.git`
-`npm install`
+`git clone https://github.com/Debdut0122/blog.git` </br>
+`npm install`</br>
 `npx json-server --watch data/db.json --port 8000`
 </br>
 Open a new terminal and run:</br>
